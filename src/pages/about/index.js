@@ -17,16 +17,16 @@ function About() {
                 <li className="sm:inline-block hover:text-black">
                   Vision
                 </li>
-                <li class="sm:inline-block hover:text-black">
+                <li className="sm:inline-block hover:text-black">
                   Objetivos
                 </li>
               </div>
             </li>
-            <li class="sm:inline-block">
-              <a class="p-3 hover:text-black">Historia</a>
+            <li className="sm:inline-block">
+              <a className="p-3 hover:text-black">Historia</a>
             </li>
-            <li class="sm:inline-block">
-              <a class="p-3 hover:text-black">Administracion</a>
+            <li className="sm:inline-block">
+              <a className="p-3 hover:text-black">Administracion</a>
             </li>
 
           </ul>
@@ -50,10 +50,8 @@ function About() {
 
           </div>
           <div className="flex w-full p-10">
-            <p className="text-lg  leading-snug tracking-wide text-gray-900 text-opacity-100">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            <p className="text-lg leading-snug tracking-wide text-gray-900 text-opacity-100">
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
           </div>
         </div>
