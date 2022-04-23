@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clearNav {
+    backdrop-filter: saturate(180%) blur(5px) !important;
+    background-color: rgba(255, 255, 255, 0.6) !important;
+  }
+
+
+  @font-face {
+    font-family: "NotoSansMono";
+    src: url("/fonts/static/NotoSansMono/NotoSansMono-Thin.ttf");
+    font-style: thin;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "NotoSansMono";
+    src: url("/fonts/static/NotoSansMono/NotoSansMono-ExtraLight.ttf");
+    font-style: ExtraLight;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "NotoSansMono";
+    src: url("/fonts/static/NotoSansMono/NotoSansMono-Light.ttf");
+    font-style: Light;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "NotoSansMono";
+    src: url("/fonts/static/NotoSansMono/NotoSansMono-Regular.ttf");
+    font-style: Regular;
+    font-display: swap;
+  }
+
