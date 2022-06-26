@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="text-gray-900 bg-gray-300 py-5">
             <div className="flex justify-evenly my-1">
-                
+
                 <div className="flex">
                     <div className="flex p-1 mx-5">
                         <div className="text-black flex flex-col justify-center">
