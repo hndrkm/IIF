@@ -18,7 +18,7 @@ const itemsMenu = [
         'items': [
             {
                 'name': "Descripción",
-                'url': "/about"
+                'url': "/about/description"
             },
             {
                 'name': "Historia",
@@ -26,7 +26,7 @@ const itemsMenu = [
             },
             {
                 'name': "Administracion",
-                'url': "/about/adm"
+                'url': "/about/admin"
             }
         ]
     },
