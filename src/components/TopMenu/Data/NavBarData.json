@@ -1,0 +1,32 @@
+{
+    "Items": 
+    [
+        {
+            "name": "Inicio",
+            "url": "/",
+            "drop": false,
+            "items": [
+                
+            ]
+        },
+        {
+            "name": "Acerca del instituto",
+            "url": "/about",
+            "drop": true,
+            "items": [
+                {
+                    "name": "Descripción",
+                    "url": "/About"
+                },
+                {
+                    "name": "Historia",
+                    "url": "/About/History"
+                },
+                {
+                    "name": "Administracion",
+                    "url": "/About/Adm"
+                }
+            ]
+        }
+    ]
+}
