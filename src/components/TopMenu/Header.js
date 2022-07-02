@@ -18,15 +18,15 @@ const itemsMenu = [
         'items': [
             {
                 'name': "Descripción",
-                'url': "/About"
+                'url': "/about/description"
             },
             {
                 'name': "Historia",
-                'url': "/About/History"
+                'url': "/about/history"
             },
             {
                 'name': "Administracion",
-                'url': "/About/Adm"
+                'url': "/about/admin"
             }
         ]
     },
