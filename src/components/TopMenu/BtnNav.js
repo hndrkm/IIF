@@ -9,7 +9,7 @@ export default function BtnNav({ itemName, url, drop, items }) {
         <>
             <li className="h-full">
 
-                <Link key={itemName} href={url} >
+                
                 <button className="border-dashed 
                     border-gray-400  
                     text-black  
@@ -29,7 +29,7 @@ export default function BtnNav({ itemName, url, drop, items }) {
                     }
 
                 </button>
-                </Link>
+                
                 
                 <div
                     className={buttonOpen ? "" : "hidden"}
