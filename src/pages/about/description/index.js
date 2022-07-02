@@ -46,18 +46,14 @@ function Descripction() {
           <div className=" absolute  right-0 h-full w-7/12 bg-purple-200 rounded-3xl ">foto</div>
           <div className=" absolute left-0 bg-blue-200  w-3/6 h-64 my-8  " >
             <h1 className="w-full my-4 text-xl font-bold leading-tight text-center text-gray-900" >Mision</h1>
-            <p className=" mx-4" >
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only 
-            </p>
+            <p className=" mx-4" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only </p>
           </div>
         </div>
         <div className=" relative my-4 h-80" >
           <div className=" absolute  left-0 h-full       w-7/12 bg-purple-200 rounded-3xl ">foto</div>
           <div className=" absolute right-0 bg-blue-200  w-3/6 h-64 my-8  " >
             <h1 className="w-full my-4 text-xl font-bold leading-tight text-center text-gray-900" >Vision</h1>
-            <p className=" mx-4" >
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only 
-            </p>
+            <p className=" mx-4" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only</p>
           </div>
         </div>
 
@@ -65,9 +61,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
           <div className=" absolute  right-0 h-full w-7/12 bg-purple-200 rounded-3xl ">foto</div>
           <div className=" absolute left-0 bg-blue-200  w-3/6 h-64 my-8  " >
             <h1 className="w-full my-4 text-xl font-bold leading-tight text-center text-gray-900" >Objetivos</h1>
-            <p className=" mx-4" >
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only 
-            </p>
+            <p className=" mx-4" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only </p>
 
           </div>
         </div>
