@@ -3,12 +3,12 @@ import Image from 'next/image'
 export default function Title() {
     return (
         <>
-            <div className="w-full h-12 bg-gray-200 flex justify-center">
-                <div className="flex text-black text-2xl font-semibold p-2 font-serif">
+            <div className="w-full h-12 bg-gray-700 flex justify-center">
+                <div className="flex text-white text-2xl font-semibold p-2 font-serif">
                     Universidad Mayor de San Andres
                 </div>
             </div>
-            <div className="w-full flex pt-5  gap-3 bg-gray-50 pb-5 lg:justify-start lg:pl-80 md:justify-center pl-0 sm:justify-center ">
+            <div className="w-full flex py-10  gap-3 bg-gray-50 pb-5 lg:justify-start lg:pl-80 md:justify-center pl-0 sm:justify-center ">
 
                 <div className='pr-4 flex justify-end border-r-4 border-gray-400'>
                     <Image className="pr-3" src="/MiniLogoUMSA.png" width={80}

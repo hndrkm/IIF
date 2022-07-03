@@ -16,16 +16,90 @@
             "items": [
                 {
                     "name": "Descripción",
-                    "url": "/About"
+                    "url": "/about/description"
                 },
                 {
                     "name": "Historia",
-                    "url": "/About/History"
+                    "url": "/about/history"
                 },
                 {
                     "name": "Administracion",
-                    "url": "/About/Adm"
+                    "url": "/about/adm"
                 }
+            ]
+        },
+        {
+            "name": "Investigacion",
+            "url": "/research",
+            "drop": true,
+            "items": [
+                {
+                    "name": "Investigaciones",
+                    "url": "/research"
+                },
+                {
+                    "name": "Física Aplicada",
+                    "url": "/research"
+                },
+                {
+                    "name": "Física de la Atmósfera",
+                    "url": "/about/history"
+                },
+                {
+                    "name": "Física Teórica",
+                    "url": "/about/adm"
+                },
+                {
+                    "name": "Geofísica",
+                    "url": "/about/adm"
+                },
+                {
+                    "name": "Rayos Cósmicos",
+                    "url": "/research/cosmicRays"
+                }
+            ]
+        },
+        {
+            "name": "Servicios",
+            "url": "/services",
+            "drop": true,
+            "items": [
+                {
+                    "name": "Ensayos Destructivos",
+                    "url": "/services"
+                },
+                {
+                    "name": "Ensayos no-destructivos",
+                    "url": "/"
+                },
+                {
+                    "name": "Soldadura",
+                    "url": "/"
+                },
+                {
+                    "name": "Capacitación de personal",
+                    "url": "/"
+                },
+                {
+                    "name": "Peritaje Técnico",
+                    "url": "/"
+                }
+            ]
+        },
+        {
+            "name": "Seminarios y Cursos",
+            "url": "/courses",
+            "drop": false,
+            "items": [
+                
+            ]
+        },
+        {
+            "name": "Estudia con Nosotros",
+            "url": "/",
+            "drop": false,
+            "items": [
+                
             ]
         }
     ]

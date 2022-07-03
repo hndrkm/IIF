@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
       <link rel="shortcut icon" href="/logoiif.jpg" />
       <meta
           name="Description"
-          content="Pagina de la carrera de fisica de la facultad de Ciencias puras y natirales de la UMSA."
+          content="Pagina del instituto de Investigaciones Fisicas UMSA."
         />
     </Head>
     <Layout>

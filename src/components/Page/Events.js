@@ -1,6 +1,6 @@
 export default function Events() {
     return (
-        <div>
+        <div className="w-full">
             <div className="flex flex-col justify-around h-full w-full ">
 
                 <div className="flex flex-col bg-white rounded shadow-lg m-2">

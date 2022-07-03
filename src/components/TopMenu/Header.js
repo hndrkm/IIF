@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import BtnNav from "./BtnNav";
 import Title from "./Title";
-
+import DataNabBar from "./Data/NavBarData.json";
 const itemsMenu = [
     {
         'name': "Inicio",
@@ -129,8 +129,9 @@ export default function Header() {
 
                     <div className={"md:flex flex-grow " + (navbarOpen ? " flex" : " hidden")}>
                         <nav className="flex-col flex-grow">
+                                                    
                             <ul className="h-full flex flex-grow flex-wrap justify-between">
-                                {itemsMenu.map((item) => <BtnNav key={item.name} itemName={item.name} url={item.url} drop={item.drop} items={item.items}></BtnNav>)}
+                                {DataNabBar.Items.map((item) => <BtnNav key={item.name} itemName={item.name} url={item.url} drop={item.drop} items={item.items}></BtnNav>)}
                             </ul>
                         </nav>
                     </div>

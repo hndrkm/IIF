@@ -2,7 +2,7 @@ import Publication from "./Publication";
 export default function Publications() {
 
     return (
-        <div className="container bg-gray-50 mx-auto w-full h-full">
+        <div className="container bg-gray-300 mx-auto w-full h-full">
             <h1 className="mb-3 font-bold text-gray-800 text-2xl text-center">Publicaciones</h1>
             <div className="relative wrap overflow-hidden p-5 h-full">
                 <Publication></Publication>
