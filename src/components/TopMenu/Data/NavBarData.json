@@ -24,7 +24,11 @@
                 },
                 {
                     "name": "Administracion",
-                    "url": "/about/adm"
+                    "url": "/about/admin"
+                },
+                {
+                    "name": "Perfil",
+                    "url": "/about/profile"
                 }
             ]
         },

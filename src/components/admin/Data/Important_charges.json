@@ -1,0 +1,21 @@
+{
+  "charges":[
+    {
+      "name":"example name",
+      "phone":"591-334-2324",
+      "email":"example.cargo@gmail" ,
+      "cargo":"admin",
+      "functions":["administrar","ver","otros"],
+      "img":"/Charges/charge1.jpg"
+    },
+    {
+      "name":"example name",
+      "phone":"591-334-2324",
+      "email":"example.cargo@gmail" ,
+      "cargo":"admin",
+      "functions":["administrar","ver","otros"],
+      "img":"/Charges/charge1.jpg"
+    }
+
+  ]
+}

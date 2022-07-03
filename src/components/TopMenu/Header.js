@@ -27,6 +27,10 @@ const itemsMenu = [
             {
                 'name': "Administracion",
                 'url': "/about/admin"
+            },
+            {
+                'name': "Perfil",
+                'url': "/about/profile"
             }
         ]
     },
