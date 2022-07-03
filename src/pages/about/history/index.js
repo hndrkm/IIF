@@ -1,7 +1,7 @@
-import Perfil from "../../../components/investigators/profile"
+import Profile from "../../../components/investigators/profile"
 function History() {
     return (    
-      <Perfil />
+      <Profile />
     )
 
   } 
