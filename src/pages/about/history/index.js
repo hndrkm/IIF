@@ -11,7 +11,7 @@ function History() {
         </div>
         <div className="w-3/4 px-10 ">
           <div className=" my-4 ">
-            <div class="text-black text-4xl font-extrabold p-3 text-center">HISTORIA</div>
+            <div className="text-black text-4xl font-extrabold p-3 text-center">HISTORIA</div>
           </div>
           <div className=" my-0  ">
                 <Image  src={"/profile/example.jpg"} width={800} height={400}/>
