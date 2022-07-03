@@ -1,5 +1,8 @@
+import Profile from "../../../components/investigators/profile"
 function History() {
-    return <div>Historia</div>
-  }
-  
+    return (    
+      <Profile />
+    )
+
+  } 
   export default History
